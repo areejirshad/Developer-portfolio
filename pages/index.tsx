@@ -5,7 +5,6 @@ import ProjectsSection from '../components/ProjectsSection';
 import Tech from '@/components/Tech';
 import Layout from '@/components/Layout';
 import Footer from '@/components/Footer';
-import HeroDescription from '@/components/Herodescription';
 
 
 

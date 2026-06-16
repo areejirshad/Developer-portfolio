@@ -100,7 +100,7 @@ const PROJECTS: ProjectItem[] = [
   },
 ];
 
-export default function Projects(): JSX.Element {
+export default function Projects(): React.ReactElement {
   return (
     <>
       <Header />

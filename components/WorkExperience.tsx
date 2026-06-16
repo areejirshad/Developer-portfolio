@@ -32,7 +32,7 @@ const EXPERIENCES: Experience[] = [
   },
 ];
 
-export default function ExperienceSection(): JSX.Element {
+export default function ExperienceSection(): React.ReactElement {
   return (
     <section
       id="experience"

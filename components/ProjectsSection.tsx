@@ -31,7 +31,7 @@ const PROJECTS: Project[] = [
   },
 ];
 
-export default function ProjectsSection(): JSX.Element {
+export default function ProjectsSection(): React.ReactElement {
   return (
     <section
       id="projects"

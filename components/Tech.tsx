@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
-export default function Tech(): JSX.Element {
+export default function Tech(): React.ReactElement {
   return (
     <section
       id="tech"
